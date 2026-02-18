@@ -7,7 +7,7 @@ int getIntValue() {
     return var_int;
 } 
 
-/*float getFloatValue() {
+float getFloatValue() {
     // Declare a variable var_float of type float and set its value to 10.75.
     //return var_float;
     // hello
@@ -22,18 +22,18 @@ char getCharValue() {
     return var_char;
 }
 
-int convertFloatToInt(float value) {
+/*int convertFloatToInt(float value) {
     // convert value to int.
     return value;
 }
 
-/*
+
 Convert Fahrenheit to Celsius and store your answer in a variable celsius.
 
 Formula:
     Celsius = (Fahrenheit - 32) * 5 / 9
-*/
-//float fahrenheitToCelsius(float fahrenheit) {
-    //return celsius;
 
-}
+float fahrenheitToCelsius(float fahrenheit) {
+    return celsius;
+
+} */
